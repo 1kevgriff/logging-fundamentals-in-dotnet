@@ -1,1 +1,2 @@
-# logging-fundamentals-in-dotnet
+# Logging Fundamentals in .NET (working title)
+
